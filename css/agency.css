@@ -56,7 +56,7 @@ h6 {
 
 @media (min-width: 768px) {
   section {
-    padding: 150px 0;
+    padding: 0px 0;
   }
 }
 
@@ -688,4 +688,21 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
+}
+
+
+
+.showcase .showcase-text {
+  padding: 0rem;
+}
+
+.showcase .showcase-img {
+  min-height: 30rem;
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+  .showcase .showcase-text {
+    padding: 7rem;
+  }
 }

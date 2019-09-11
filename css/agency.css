@@ -699,6 +699,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .showcase .showcase-img {
   min-height: 30rem;
   background-size: cover;
+
 }
 
 @media (min-width: 768px) {
@@ -706,3 +707,6 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
     padding: 7rem;
   }
 }
+
+
+/* PROPIOS */

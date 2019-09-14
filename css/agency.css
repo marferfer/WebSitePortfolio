@@ -39,6 +39,10 @@ h6 {
   padding: 100px 0;
 }
 
+.page-section .contacta {
+  padding: 40px 0;
+}
+
 .page-section h2.section-heading {
   font-size: 40px;
   margin-top: 0;
@@ -760,4 +764,9 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
     flex-direction: column;
     align-items: stretch;
   }
+}
+
+/*Modificacion de intro-lead-in de Bootstrap */
+.normalText{
+  font-style: normal;
 }
